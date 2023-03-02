@@ -1,5 +1,4 @@
 # DigDesign-TrafficLight
-## Digital Design and Implementation of 4-way Traffic Lights
 ## Anjali Tangirala
 
 ### Project Overview
